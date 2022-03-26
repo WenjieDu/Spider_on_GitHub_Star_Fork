@@ -12,6 +12,7 @@ You can quickly create a usable python environment with an anaconda command `con
 
 <details>
 <summary><b><i>👏 Click here to view stargazers and forkers of this repo </i></b></summary>
+
 [![Stargazers repo roster for @WenjieDu/GitHub_Spider_on_Star_Fork](https://reporoster.com/stars/WenjieDu/GitHub_Spider_on_Star_Fork)](https://github.com/WenjieDu/GitHub_Spider_on_Star_Fork/stargazers)
 
 [![Forkers repo roster for @WenjieDu/GitHub_Spider_on_Star_Fork](https://reporoster.com/forks/WenjieDu/GitHub_Spider_on_Star_Fork)](https://github.com/WenjieDu/GitHub_Spider_on_Star_Fork/network/members)
